@@ -1,0 +1,202 @@
+[
+   {
+    "question": "Welche Marktsituation entsteht im Normalfall, wenn ein staatlicher Mindestpreis über dem Gleichgewichtspreis festgesetzt wird?",
+    "options": {
+      "A": "Ein Angebotsüberhang (Nachfragelücke), da Anbieter mehr verkaufen wollen, aber Nachfrager zu diesem Preis weniger kaufen",
+      "B": "Ein Nachfrageüberhang (Angebotslücke), da die Nachfrage durch den hohen Preis stark angekurbelt wird",
+      "C": "Eine automatische Räumung des Marktes, da sich ein neues natürliches Gleichgewicht bildet",
+      "D": "Ein akuter Mangel an Gütern, da die Produzenten ihre Produktion sofort einstellen"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was unterscheidet marktkonträre (direkte) Eingriffe fundamental von marktkonformen Eingriffen?",
+    "options": {
+      "A": "Marktkonträre Eingriffe verändern ausschließlich die Steuersätze des Landes",
+      "B": "Marktkonträre Eingriffe setzen den Preismechanismus außer Kraft und erzwingen einen politischen Preis",
+      "C": "Marktkonträre Eingriffe sind immer mit dem Preismechanismus des Marktes vereinbar",
+      "D": "Marktkonträre Eingriffe führen lediglich zu einer Verschiebung der Angebotskurve"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welche historischen Begleiterscheinungen traten laut Infotext fast immer bei der Einführung von Höchstpreisen auf?",
+    "options": {
+      "A": "Eine massive Überproduktion an Gütern und die Schließung aller Schwarzmärkte",
+      "B": "Die Entstehung von Warteschlangen, Schwarzmärkten und primitiven Tauschgeschäften",
+      "C": "Ein starker Anstieg der Produktqualität und ein Sinken der Staatsverschuldung",
+      "D": "Eine freiwillige Senkung der Preise durch alle Anbieter unter das gesetzliche Limit"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welches Instrument gehört laut Infotext zu den marktkonformen Eingriffen des Staates?",
+    "options": {
+      "A": "Die gesetzliche Festlegung von Mindestlöhnen für Arbeiter",
+      "B": "Das Festlegen von staatlichen Höchstgrenzen für Agrarprodukte",
+      "C": "Das Erhöhen oder Senken der eigenen Staatsnachfrage nach Gütern und Dienstleistungen",
+      "D": "Die behördliche Preiskontrolle im Einzelhandel"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welche finanzielle Auswirkung wird in Aufgabe 3 im Zusammenhang mit hohen Staatsausgaben für Transferleistungen genannt?",
+    "options": {
+      "A": "Sie führen tendenziell zu einer Erhöhung der Staatsverschuldung",
+      "B": "Sie senken die Notwendigkeit, Steuereinnahmen zu generieren",
+      "C": "Sie führen zu einer sofortigen Entlastung des Staatshaushaltes",
+      "D": "Sie verhindern die Entstehung von Nachfrageüberhängen vollständig"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Wie verändert sich die Nachfrage nach superioren Gütern, wenn das Einkommen der privaten Haushalte steigt?",
+    "options": {
+      "A": "Die Nachfrage steigt",
+      "B": "Die Nachfrage sinkt",
+      "C": "Die Nachfrage bleibt völlig unverändert",
+      "D": "Die Nachfrage bricht komplett ein"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was versteht man unter einem inferioren Gut?",
+    "options": {
+      "A": "Ein Gut, dessen Nachfrage bei steigendem Einkommen sinkt",
+      "B": "Ein Gut, das bei jedem Einkommen absolut unverzichtbar ist",
+      "C": "Ein Gut, dessen Nachfrage proportional zum Einkommensanstieg wächst",
+      "D": "Ein Gut, das auf dem Markt nicht mehr legal gehandelt werden darf"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Welches der folgenden Güter verhält sich im Bezug auf das Einkommen am ehesten wie ein Sättigungsgut?",
+    "options": {
+      "A": "Ein Sportwagen",
+      "B": "Sehr billige No-Name-Margarine",
+      "C": "Speisesalz",
+      "D": "Ein Luxusurlaub"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Wie reagiert die nachgefragte Menge eines Sättigungsgutes, wenn das Einkommen der Verbraucher sinkt?",
+    "options": {
+      "A": "Sie steigt drastisch an",
+      "B": "Sie bleibt im Wesentlichen unverändert",
+      "C": "Sie fällt sofort auf null",
+      "D": "Sie verdoppelt sich"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Warum betrachten Ökonomen manche Güter als 'höherwertig' (superior)?",
+    "options": {
+      "A": "Weil die Nachfrage nach ihnen ansteigt, sobald den Konsumenten mehr Einkommen zur Verfügung steht",
+      "B": "Weil sie gesetzlich staatlich geprüft und zertifiziert sein müssen",
+      "C": "Weil sie ausschließlich von wohlhabenden Menschen gekauft werden können",
+      "D": "Weil sie niemals an Wert verlieren können"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was charakterisiert den Snob-Effekt beim Nachfrageverhalten?",
+    "options": {
+      "A": "Die Nachfrage steigt, weil das Produkt von der breiten Masse gekauft wird",
+      "B": "Konsumenten kaufen ein Gut erst ab einem bestimmten, hohen Preis, um sich durch Exklusivität von anderen abzuheben",
+      "C": "Die Nachfrage sinkt drastisch, sobald der Preis des Produktes leicht angehoben wird",
+      "D": "Kunden kaufen das Produkt nur, wenn es im Angebot oder besonders billig ist"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Welches Verhalten beschreibt den Mitläufer-Effekt?",
+    "options": {
+      "A": "Die Nachfrage nach einem Produkt steigt, weil es im Trend liegt oder von vielen anderen genutzt wird",
+      "B": "Die Nachfrage sinkt, sobald das Produkt in den sozialen Medien auftaucht",
+      "C": "Konsumenten meiden Produkte, die von Jugendlichen zur Zugehörigkeit genutzt werden",
+      "D": "Ein Gut wird nur dann gekauft, wenn der Preis ein Signal für mindere Qualität ist"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Was besagt der Qualitätsvermutungseffekt bei gleichartigen Gütern?",
+    "options": {
+      "A": "Kunden gehen davon aus, dass billigere Produkte immer eine längere Lebensdauer haben",
+      "B": "Der Preis hat für die Konsumenten keinerlei Aussagekraft über die Beschaffenheit der Ware",
+      "C": "Konsumenten nehmen an: Je höher der Preis eines Gutes ist, desto besser ist auch dessen Qualität",
+      "D": "Markenprodukte werden grundsätzlich als minderwertig gegenüber No-Name-Produkten eingestuft"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Welches klassische Beispiel beschreibt den Giffen-Effekt bei Haushalten mit geringem Einkommen?",
+    "options": {
+      "A": "Wenn der Preis für Luxusuhren steigt, kaufen wohlhabende Haushalte noch mehr davon",
+      "B": "Wenn der Brotpreis steigt, verzichten Haushalte auf teureres Fleisch und kaufen stattdessen noch mehr Brot",
+      "C": "Wenn die Einkommen steigen, wird komplett auf den Konsum von Grundnahrungsmitteln verzichtet",
+      "D": "Wenn die Preise für Waschmaschinen sinken, vermuten die Kunden eine schlechte Qualität und meiden sie"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Bei welchem der folgenden Effekte steigt die Nachfrage nach einem Gut trotz steigenden Preises primär aus Gründen der sozialen Abgrenzung?",
+    "options": {
+      "A": "Giffen-Effekt",
+      "B": "Mitläufer-Effekt",
+      "C": "Qualitätsvermutungseffekt",
+      "D": "Snob-Effekt"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Was bedeutet Markt im wirtschaftlichen Sinne?",
+    "options": {
+      "A": "Ort, an dem nur wenige Anbietende auf viele Nachfragende treffen",
+      "B": "Ort, an dem nur Güter und Dienstleistungen gehandelt werden",
+      "C": "Ort, an dem Angebot und Nachfrage bezüglich bestimmter Güter aufeinandertreffen",
+      "D": "Ort, an dem Preise ausschließlich staatlich festgelegt werden"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Wie nennt man den Preis, zu dem die Ware die Besitzerin wechselt und Angebot und Nachfrage ausgleicht?",
+    "options": {
+      "A": "Nachfragepreis",
+      "B": "Gleichgewichtspreis",
+      "C": "Angebotspreis",
+      "D": "Höchstpreis"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Ein Beispiel für einen Faktormarkt ist:",
+    "options": {
+      "A": "der Arbeitsmarkt",
+      "B": "der Investitionsgütermarkt",
+      "C": "der Konsumgütermarkt",
+      "D": "der Lebensmittelmarkt"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bei welcher Marktform gibt es auf dem Markt nur einen Anbietenden, dem viele Nachfragende gegenüberstehen?",
+    "options": {
+      "A": "Nachfragemonopol",
+      "B": "Nachfrageoligopol",
+      "C": "Angebotsmonopol",
+      "D": "Polypol"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Der Preis bei einem Oligopol ist:",
+    "options": {
+      "A": "eher hoch",
+      "B": "eher niedrig",
+      "C": "weitgehend stabil",
+      "D": "völlig unvorhersehbar"
+    },
+    "correct": "C"
+  }
+]
